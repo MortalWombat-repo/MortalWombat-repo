@@ -29,10 +29,10 @@ I'm a passionate developer from Croatia 🇭🇷
 <br />
 <br />
 
-<a href="https://bruno-m-portfolio.vercel.app/">
-  <img align="right" alt="website | Website" width="21px" src="https://github.com/MortalWombat-repo/MortalWombat-repo/blob/main/assets/Globe_icon.svg-removebg-preview.png" />
-</a>
 <a href="https://www.linkedin.com/in/bruno-m-1141262b3/">
   <img align="right" alt="linkedin | LinkedIn" width="21px" src="https://github.com/MortalWombat-repo/MortalWombat-repo/blob/main/assets/icons8-linkedin-50.png" />
+</a>
+<a href="https://bruno-m-portfolio.vercel.app/">
+  <img align="right" alt="website | Website" width="21px" src="https://github.com/MortalWombat-repo/MortalWombat-repo/blob/main/assets/Globe_icon.svg-removebg-preview.png" />
 </a>
 
