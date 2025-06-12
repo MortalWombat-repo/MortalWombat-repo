@@ -30,5 +30,5 @@ I'm a passionate developer from Croatia 🇭🇷
 <br />
 
 <a href="https://www.linkedin.com/in/bruno-m-1141262b3/">
-  <img align="right" alt="linkedin | LinkedIn" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="right" alt="linkedin | LinkedIn" width="21px" src="https://github.com/MortalWombat-repo/MortalWombat-repo/blob/main/assets/LinkedIn_icon.svg.webp" />
 </a>
