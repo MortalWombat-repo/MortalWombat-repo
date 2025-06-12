@@ -1,4 +1,8 @@
-<p align="center"><a href="https://bruno-m-portfolio.vercel.app/"><img width="80%" alt="Hello, I'm Bruno. I love programming!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">
+  <a href="https://bruno-m-portfolio.vercel.app/">
+    <img width="416" height="137" alt="Hello, I'm Bruno. I love programming!" src="./assets/gh-readme-header.png" />
+  </a>
+</p>
 
 <br />
 
