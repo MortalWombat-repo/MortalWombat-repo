@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://bruno-m-portfolio.vercel.app/">
-    <img width="416" height="137" alt="Hello, I'm Bruno. I love programming!" src="./assets/gh-readme-header.png" />
+    <img width="312" height="103" alt="Hello, I'm Bruno. I love programming!" src="./assets/gh-readme-header.png" />
   </a>
 </p>
 
