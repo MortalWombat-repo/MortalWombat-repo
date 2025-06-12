@@ -6,11 +6,11 @@ I'm a passionate developer from Croatia 🇭🇷
 
 **About me**
 
-- 📚 Currently studying Machine Learning, Data Science, Data Engineering with a bit of DevOps. I love Docker and use it in my projects, cloud too.
+- 📚 Currently studying Machine Learning, Data Science, Data Engineering with a bit of DevOps.
 
 - 📈 Built SEP chatbot and a bunch of other Machine Learning and Data Engineering projects, with a total of **40** stars on GitHub
 
-- ❤️ I love Python and anything to do with data
+- ❤️ I love Python and anything to do with data. I love Docker and use it in my projects, and enjoy using cloud too.
 
 - 🎓 I recently enrolled to Georgia Tech MSc in Data Science. If you have similar interests I would love to connect :) 
 
