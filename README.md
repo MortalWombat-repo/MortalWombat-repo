@@ -14,7 +14,7 @@ I'm a passionate developer from Croatia 🇭🇷
 
 - 🎓 I recently enrolled to Georgia Tech MSc in Data Science. If you have similar interests I would love to connect :) 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MortalWombat-repo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bruno's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MortalWombat-repo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bruno's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MortalWombat-repo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
