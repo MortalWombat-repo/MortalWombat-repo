@@ -20,10 +20,10 @@ I'm a passionate developer from Croatia 🇭🇷
 #### Top Repositories
 
 <a href="https://github.com/MortalWombat-repo/Stanford-Encyclopedia-of-Philosophy-chatbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MortalWombat-repo&repo=Stanford-Encyclopedia-of-Philosophy-chatbot&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MortalWombat-repo&repo=SEP-chatbot&theme=buefy" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MortalWombat-repo&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/MortalWombat-repo/Fetal-Health-Classification">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MortalWombat-repo&repo=Fetal-Health-Classification&theme=buefy" />
 </a>
 
 <br />
