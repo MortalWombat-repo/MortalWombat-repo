@@ -12,7 +12,7 @@ I'm a passionate developer from Croatia 🇭🇷
 
 - 📚 Currently studying Machine Learning, Data Science, Data Engineering with a bit of DevOps.
 
-- 📈 Built SEP chatbot and a bunch of other Machine Learning and Data Engineering projects, with a total of **40** stars on GitHub
+- 📈 Built SEP chatbot and a bunch of other Machine Learning and Data Engineering projects, with over **40** stars on GitHub
 
 - ❤️ I love Python and anything to do with data. I love Docker and use it in my projects, and enjoy using cloud too.
 
