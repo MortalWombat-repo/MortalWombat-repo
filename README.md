@@ -24,19 +24,19 @@ I'm a passionate developer from Croatia 🇭🇷
 #### Top Repositories
 
 <a href="https://github.com/MortalWombat-repo/Stanford-Encyclopedia-of-Philosophy-chatbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MortalWombat-repo&repo=Stanford-Encyclopedia-of-Philosophy-chatbot&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-six-bay-64.vercel.app/api/pin/?username=MortalWombat-repo&repo=Stanford-Encyclopedia-of-Philosophy-chatbot&theme=buefy" />
 </a>
 <a href="https://github.com/MortalWombat-repo/Fetal-Health-Classification">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MortalWombat-repo&repo=Fetal-Health-Classification&theme=buefy" />
+  <img align="center" src="https://github-readme-stats-six-bay-64.vercel.app/api/pin/?username=MortalWombat-repo&repo=Fetal-Health-Classification&theme=buefy" />
 </a>
 
 <br />
 <br />
 
 <a href="https://www.linkedin.com/in/bruno-m-1141262b3/">
-  <img align="right" alt="linkedin | LinkedIn" width="21px" src="https://github.com/MortalWombat-repo/MortalWombat-repo/blob/main/assets/linkedin.png" />
+  <img align="right" alt="linkedin" width="21px" src="https://raw.githubusercontent.com/MortalWombat-repo/MortalWombat-repo/main/assets/linkedin.png" />
 </a>
 <a href="https://bruno-m-portfolio.vercel.app/">
-  <img align="right" alt="website | Website" width="21px" src="https://github.com/MortalWombat-repo/MortalWombat-repo/blob/main/assets/Globe_icon.svg-removebg-preview.png" />
+  <img align="right" alt="website" width="21px" src="https://raw.githubusercontent.com/MortalWombat-repo/MortalWombat-repo/main/assets/Globe_icon.svg-removebg-preview.png" />
 </a>
 
