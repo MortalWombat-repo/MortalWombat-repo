@@ -23,12 +23,11 @@ I'm a passionate developer from Croatia 🇭🇷
 
 #### Top Repositories
 
-<a href="https://github.com/MortalWombat-repo/Stanford-Encyclopedia-of-Philosophy-chatbot">
-  <img align="center" src="https://github-readme-stats-six-bay-64.vercel.app/api/pin/?username=MortalWombat-repo&repo=Stanford-Encyclopedia-of-Philosophy-chatbot&theme=buefy" />
-</a>
-<a href="https://github.com/MortalWombat-repo/Fetal-Health-Classification">
-  <img align="center" src="https://github-readme-stats-six-bay-64.vercel.app/api/pin/?username=MortalWombat-repo&repo=Fetal-Health-Classification&theme=buefy" />
-</a>
+<a href="https://github.com/MortalWombat-repo/Stanford-Encyclopedia-of-Philosophy-chatbot"><img src="https://github-readme-stats-six-bay-64.vercel.app/api/pin/?username=MortalWombat-repo&repo=Stanford-Encyclopedia-of-Philosophy-chatbot&theme=buefy" /></a>
+<a href="https://github.com/MortalWombat-repo/Fetal-Health-Classification"><img src="https://github-readme-stats-six-bay-64.vercel.app/api/pin/?username=MortalWombat-repo&repo=Fetal-Health-Classification&theme=buefy" /></a>
+<a href="https://github.com/MortalWombat-repo/Document_QA_with_FAISS"><img src="https://github-readme-stats-six-bay-64.vercel.app/api/pin/?username=MortalWombat-repo&repo=Document_QA_with_FAISS&theme=buefy" /></a>
+<a href="https://github.com/MortalWombat-repo/Employee-churn-prediction"><img src="https://github-readme-stats-six-bay-64.vercel.app/api/pin/?username=MortalWombat-repo&repo=Employee-churn-prediction&theme=buefy" /></a>
+<a href="https://github.com/MortalWombat-repo/Letterboxd_data_visualizer"><img src="https://github-readme-stats-six-bay-64.vercel.app/api/pin/?username=MortalWombat-repo&repo=Letterboxd_data_visualizer&theme=buefy" /></a>
 
 <br />
 <br />
