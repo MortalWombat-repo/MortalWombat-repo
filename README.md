@@ -32,7 +32,7 @@ I'm a passionate developer from Croatia 🇭🇷
 <br />
 <br />
 
-<a href="https://www.linkedin.com/in/bruno-m-1141262b3/">
+<a href="https://www.linkedin.com/in/bruno-markovi%C4%87-1141262b3/">
   <img align="right" alt="linkedin" width="21px" src="https://raw.githubusercontent.com/MortalWombat-repo/MortalWombat-repo/main/assets/linkedin.png" />
 </a>
 <a href="https://bruno-m-portfolio.vercel.app/">
